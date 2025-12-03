@@ -1,17 +1,21 @@
 import Chatbot from "./Chatbot";
+import React from "react";
+import './App.css'
 
 function App() {
-  return (
+  return (<>
     <div>
-      <h1>Welcome to My Website</h1>
+      
       <Chatbot
         logo="/orryxlogo.png"
         primaryColor="#FF6A00"
         variant="shadow"
-        position="top-right"
+        position="top-left"
         titleText="Orry-X"
       />
+      <h1>Click on this logo to use Chatbot</h1>
     </div>
+    </>
   );
 }
 
