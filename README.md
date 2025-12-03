@@ -1,6 +1,8 @@
 
 # OrryX -Chatbot Component (Open-source)
 
+[Live Preview](https://orry-x.vercel.app/) — https://orry-x.vercel.app/
+
 A lightweight React + Vite starter that demonstrates a configurable, embeddable chatbot component powered by Google's Gemini (via the `@google/genai` SDK). This project includes a minimal UI built with Tailwind CSS and sensible defaults for fast development and customization.
 
 Table of contents
@@ -53,7 +55,7 @@ npm install
 npm run dev
 ```
 
-Open `http://localhost:5173` (or the URL Vite prints) to view the demo.
+Open `http://localhost:5173` (or the URL Vite prints) to view the demo. You can also view the live demo at https://orry-x.vercel.app/.
 
 ## Environment Variables
 
