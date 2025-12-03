@@ -48,7 +48,7 @@ Install and run locally
 
 ```powershell
 # from repository root
-cd "ncd"
+cd project
 npm install
 npm run dev
 ```
@@ -121,7 +121,7 @@ You can customize the component by passing different values from `App.jsx` or by
 Key files and folders:
 
 ```
-ncd/
+project/
 ├─ package.json            # scripts & dependencies
 ├─ vite.config.js
 ├─ src/
