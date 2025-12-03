@@ -1,5 +1,5 @@
 
-# NCD — React Chatbot Boilerplate
+# OrryX -Chatbot Component (Open-source)
 
 A lightweight React + Vite starter that demonstrates a configurable, embeddable chatbot component powered by Google's Gemini (via the `@google/genai` SDK). This project includes a minimal UI built with Tailwind CSS and sensible defaults for fast development and customization.
 
